@@ -113,9 +113,9 @@ Installed-Size: 4
 Depends: libc6
 Filename: ./b/box64/box64_0.2.4_x86_64.deb
 Size: 610
-MD5sum: cca6ccf8467d16580556a0354234a715
-SHA1: ef79c1c9e084b2ba4ad1d3caff09d3fbfb647122
-SHA256: 7978dd69816bce874f4d447daca8b41eaba8c7b8861a27a99ee239df323ee585
+MD5sum: 688264d8412a0ef5877808218b9987dc
+SHA1: 8ec82d810d192294d4777dbc30821ca2083b2a90
+SHA256: f162f7885b281894d50e64b1cda7fffabb125b8f98914c8829e809b32fd681f2
 Section: devel
 Priority: optional
 Description: box64 built using CMake
@@ -127,10 +127,10 @@ Maintainer: ptitSeb
 Installed-Size: 24014
 Depends: libc6
 Filename: ./b/box64/box64_0.2.4_riscv64.deb
-Size: 5907634
-MD5sum: ae86f949d91a965de207349fd256159d
-SHA1: 8225f4ee61b227ddc07d061d888fef7001e6e1bc
-SHA256: a4b5d0a72a05e6dc7a022c262b9dda707be2417a3428ee1b0aaef894097cde5b
+Size: 5907630
+MD5sum: 31fc273c0235fcc48ab3cdfa9480fd07
+SHA1: 90b7141efff493f8e54bde9da9c54a8f31e67ebc
+SHA256: 44ac97029ddb21705f5f21791f762eec6ba7081072ea7d0547ca329f9e0cf5e1
 Section: devel
 Priority: optional
 Description: box64 built using CMake
@@ -173,10 +173,10 @@ Maintainer: ptitSeb
 Installed-Size: 17583
 Depends: libc6
 Filename: ./b/box86/box86_0.3.2_armhf.deb
-Size: 5315726
-MD5sum: 845225a4aca9345847d134904cbc0de0
-SHA1: a67ef134c9cd162727411fcd5d0498256b8eabd0
-SHA256: 827ff112a48b6a57ee05f4ff872223152f01b67a327d4139cda4bc18d600f2dd
+Size: 5315722
+MD5sum: fefebd6ceea65191779e7c9c6b483e51
+SHA1: eeff946af32cf6d630df329265bab0ff3d33c120
+SHA256: cec8271689f28a0969b0876d3bcfe3730620d24a072f881b9c41a68e0a2f6c58
 Section: devel
 Priority: optional
 Description: box86 built using CMake
