@@ -1,4 +1,50 @@
 Package: box64
+Version: 0.2.0
+Architecture: arm64
+Maintainer: ptitSeb
+Installed-Size: 20463
+Depends: libc6
+Filename: ./b/box64/box64_0.2.0_arm64.deb
+Size: 5297216
+MD5sum: b57e553e2848647079846392e60579e8
+SHA1: af9a7b313d8c4f6be06a27ac771ce479e0f37fc8
+SHA256: f0d7531af02fadd9708a1ed2d00d0f0e809322f983a6c86291b2ab58fbf58f68
+Section: devel
+Priority: optional
+Description: box64 built using CMake
+
+Package: box64
+Version: 0.2.0
+Architecture: x86_64
+Maintainer: ptitSeb
+Installed-Size: 4
+Depends: libc6
+Filename: ./b/box64/box64_0.2.0_x86_64.deb
+Size: 610
+MD5sum: 21850c8a20064ee8545a099c357388be
+SHA1: 1a426c4befbaa86be9470892968c0f91b070711d
+SHA256: 6b1edbde6c45b5bc805f058dbfb9a7d3f37bcc9b93b20d8e7219f93ef6eafafd
+Section: devel
+Priority: optional
+Description: box64 built using CMake
+
+Package: box64
+Version: 0.2.0
+Architecture: riscv64
+Maintainer: ptitSeb
+Installed-Size: 21764
+Depends: libc6
+Filename: ./b/box64/box64_0.2.0_riscv64.deb
+Size: 5543974
+MD5sum: bc2e19b5548f7e5970263f59780edb9b
+SHA1: e4775d7b85f683b2f78970b04b4e2905363ec402
+SHA256: 534aefc1c76b0ddca8404dbc0a04a06080d58ea46e283285057d5f3bde24bc71
+Section: devel
+Priority: optional
+Description: box64 built using CMake
+ Box64 - Linux Userspace x86_64 Emulator with a twist
+
+Package: box64
 Version: 0.2.2
 Architecture: riscv64
 Maintainer: ptitSeb
@@ -89,6 +135,21 @@ Section: devel
 Priority: optional
 Description: box64 built using CMake
  Box64 - Linux Userspace x86_64 Emulator with a twist
+
+Package: box86
+Version: 0.2.8
+Architecture: armhf
+Maintainer: ptitSeb
+Installed-Size: 16266
+Depends: libc6
+Filename: ./b/box86/box86_0.2.8_armhf.deb
+Size: 4851698
+MD5sum: 733519a0023e4b3a40c964a17dbe6481
+SHA1: ffbab7f51f9aa55c34bc9e63bdef02dc7e28568f
+SHA256: 9e30222ff8c9737d501926d376caeeb72a67946d1e5bd8722b275fde4fa784b1
+Section: devel
+Priority: optional
+Description: box86 built using CMake
 
 Package: box86
 Version: 0.3.0
