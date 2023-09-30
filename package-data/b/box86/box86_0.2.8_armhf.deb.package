@@ -1,0 +1,16 @@
+Package: box86
+Architecture: armhf
+Version: 0.2.8
+Priority: optional
+Section: devel
+Maintainer: ptitSeb
+Installed-Size: 16266
+Depends: libc6
+Filename: ./b/box86/box86_0.2.8_armhf.deb
+Size: 4851698
+MD5sum: 733519a0023e4b3a40c964a17dbe6481
+SHA1: ffbab7f51f9aa55c34bc9e63bdef02dc7e28568f
+SHA256: 9e30222ff8c9737d501926d376caeeb72a67946d1e5bd8722b275fde4fa784b1
+SHA512: 6168caabe48de81330592f081433946597de0d050ae3bd52e0f5c5b986baefd6db79cfc244447beee9cb7e61bec704987dc2c944b64a925319d179d982b256f4
+Description: box86 built using CMake
+

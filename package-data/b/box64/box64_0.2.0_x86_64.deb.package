@@ -1,0 +1,16 @@
+Package: box64
+Architecture: x86_64
+Version: 0.2.0
+Priority: optional
+Section: devel
+Maintainer: ptitSeb
+Installed-Size: 4
+Depends: libc6
+Filename: ./b/box64/box64_0.2.0_x86_64.deb
+Size: 610
+MD5sum: 21850c8a20064ee8545a099c357388be
+SHA1: 1a426c4befbaa86be9470892968c0f91b070711d
+SHA256: 6b1edbde6c45b5bc805f058dbfb9a7d3f37bcc9b93b20d8e7219f93ef6eafafd
+SHA512: f640d396905eb4b06031166356a42a7ec5c1d56c9ecc01a8ac5abdf760bbb3fff90063e6612d6e6fa10e6c75d5ce3f01b6858f811cf80c689ef0bda2f4376014
+Description: box64 built using CMake
+

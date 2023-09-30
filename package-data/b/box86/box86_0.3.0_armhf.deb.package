@@ -1,0 +1,16 @@
+Package: box86
+Architecture: armhf
+Version: 0.3.0
+Priority: optional
+Section: devel
+Maintainer: ptitSeb
+Installed-Size: 16606
+Depends: libc6
+Filename: ./b/box86/box86_0.3.0_armhf.deb
+Size: 4969142
+MD5sum: d20d9c0578beabc88226e7fd8d1f2755
+SHA1: 8fbcec8e5a1751ed4951d99844e6b0aaff937bff
+SHA256: 57b03d6447449e3a41850168135b898c30277e13f2af09502516b42f808e7024
+SHA512: 137a4a41a04eea5369602d8fde3d9cb7ea61b8de929cfab69b133fb51092c3942006d2fdeedfb6ac600d1e3814771528df54e667fde5665ece5f83e8e3a2327e
+Description: box86 built using CMake
+

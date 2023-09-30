@@ -1,0 +1,17 @@
+Package: box64
+Architecture: riscv64
+Version: 0.2.0
+Priority: optional
+Section: devel
+Maintainer: ptitSeb
+Installed-Size: 21764
+Depends: libc6
+Filename: ./b/box64/box64_0.2.0_riscv64.deb
+Size: 5543974
+MD5sum: bc2e19b5548f7e5970263f59780edb9b
+SHA1: e4775d7b85f683b2f78970b04b4e2905363ec402
+SHA256: 534aefc1c76b0ddca8404dbc0a04a06080d58ea46e283285057d5f3bde24bc71
+SHA512: 3bd60a1953eaca2922af7a977450ce1ccac33a2410b3b06bd47647fb4d13b8a4ca62b60971eb2241b1af35904a6fe66f67599e1521046b8f9e8107a05783925e
+Description: box64 built using CMake
+ Box64 - Linux Userspace x86_64 Emulator with a twist
+
